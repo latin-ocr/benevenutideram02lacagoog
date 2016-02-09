@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "benevenutideram02lacagoog_0007.png"; bbox 0 0 3734 5567; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1413 1880 2196 1981">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1413 1880 2196 1981">
+     <span class='ocr_line' id='line_1_1' title="bbox 1413 1880 2196 1981; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 1413 1880 2196 1981; x_wconf 81' lang='lat' dir='ltr'>OOMENTUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 862 2279 2762 2629">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 862 2279 2762 2629">
+     <span class='ocr_line' id='line_1_2' title="bbox 862 2279 2762 2404; baseline -0.001 0"><span class='ocrx_word' id='word_1_2' title='bbox 862 2283 1248 2404; x_wconf 89' lang='lat' dir='ltr'><strong>DAN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1261 2282 1526 2402; x_wconf 78' lang='lat' dir='ltr'><strong>TIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1631 2279 2762 2404; x_wconf 74' lang='lat' dir='ltr'><strong>ALDIGHERIJ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1332 2529 2296 2629; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 1332 2530 1405 2629; x_wconf 82' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_6' title='bbox 1429 2529 1514 2627; x_wconf 93' lang='grc' dir='ltr'><strong>Ο</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1542 2531 1655 2628; x_wconf 91' lang='grc' dir='ltr'><em>Μ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1687 2529 1813 2626; x_wconf 84' lang='grc' dir='ltr'><strong>(Ε</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1847 2529 2025 2628; x_wconf 88' lang='lat' dir='ltr'><strong>DI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2053 2532 2152 2627; x_wconf 89' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_11' title='bbox 2183 2530 2296 2627; x_wconf 92' lang='lat' dir='ltr'>M</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1134 2984 2477 3252">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1134 2984 2477 3252">
+     <span class='ocr_line' id='line_1_4' title="bbox 1481 2984 2133 3064; baseline 0 -14"><span class='ocrx_word' id='word_1_12' title='bbox 1481 2984 1731 3050; x_wconf 68' lang='lat' dir='ltr'>Tonms</span> <span class='ocrx_word' id='word_1_13' title='bbox 1782 2984 2133 3064; x_wconf 77' lang='lat' dir='ltr'><strong>QUARTUS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1134 3161 2477 3252; baseline 0 -15"><span class='ocrx_word' id='word_1_14' title='bbox 1134 3162 1344 3237; x_wconf 74' lang='lat' dir='ltr'><strong>Ptmo.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1389 3161 1936 3252; x_wconf 89' lang='lat' dir='ltr'>XXI-XXXIII;</span> <span class='ocrx_word' id='word_1_16' title='bbox 1989 3161 2157 3235; x_wconf 67' lang='lat' dir='ltr'>PAR.</span> <span class='ocrx_word' id='word_1_17' title='bbox 2202 3162 2477 3237; x_wconf 90' lang='lat' dir='ltr'>I-VIII.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
